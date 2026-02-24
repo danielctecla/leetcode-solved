@@ -3,18 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        k = k % n
-
-        rotated = [0] * n
-
-        for i in range(n):
-            rotated[(i + k) % n] = nums[i]
-        
-        for i in range(n):
-            nums[i] = rotated[i]
-
-
+        temp = nums.copy()
+        for i in range(len(nums)):
+            index = (i + k)%len(nums)
+            nums[index] = temp[i]
             
 
         
