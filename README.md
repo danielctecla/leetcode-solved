@@ -25,4 +25,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
