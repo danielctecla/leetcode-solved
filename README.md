@@ -32,6 +32,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0001-two-sum/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
