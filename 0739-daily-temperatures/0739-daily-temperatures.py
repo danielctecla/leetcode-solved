@@ -6,7 +6,7 @@ class Solution:
         for i in range(len(temperatures) - 1, -1, -1):
             count = 1
             
-            while bool(stack):
+            while stack:
                 temp = stack[-1]
                 if temperatures[i] >= temp[0]:
                     stack.pop()
@@ -16,7 +16,7 @@ class Solution:
                     answer.append(count)
                     break
 
-            if not bool(stack):
+            if not stack:
                 stack.append((temperatures[i],0))
                 answer.append(0)
 
