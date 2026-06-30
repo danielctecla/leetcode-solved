@@ -1,15 +1,13 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        pairs = list(zip(position, speed))
-        pairs = sorted(pairs, reverse = True)
+        pairs = sorted(zip(position, speed), reverse=True)
         
-        print(pairs)
-        answer = 0
+        fleets = 0
         lastTime = 0
-        for position, speed in pairs:
-            currentTime = (target - position) / speed
+        for pos, spd in pairs:
+            currentTime = (target - pos) / spd
             if currentTime > lastTime:
-                answer += 1
+                fleets += 1
                 lastTime = currentTime
 
-        return answer
+        return fleets
