@@ -41,6 +41,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0001-two-sum/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/danielctecla/leetcode-solved/tree/main/0739-daily-temperatures/) | Medium |
@@ -112,4 +114,8 @@
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/danielctecla/leetcode-solved/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
