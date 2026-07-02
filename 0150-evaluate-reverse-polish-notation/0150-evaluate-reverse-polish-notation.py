@@ -1,6 +1,5 @@
 class Solution:
     def applyOperation(self, operator: str, val2: int, val1: int) -> int:
-        print(f'{val1}{operator}{val2}')
         if operator == '+':
             return val1 + val2
         elif operator == '-':
