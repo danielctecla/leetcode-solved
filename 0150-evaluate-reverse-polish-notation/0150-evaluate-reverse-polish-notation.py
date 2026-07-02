@@ -1,20 +1,22 @@
 class Solution:
+    def applyOperation(self, operator: str, val2: int, val1: int) -> int:
+        print(f'{val1}{operator}{val2}')
+        if operator == '+':
+            return val1 + val2
+        elif operator == '-':
+            return val1 - val2
+        elif operator == '*':
+            return val1 * val2
+        else:
+            return int(val1 / val2)
+    
     def evalRPN(self, tokens: List[str]) -> int:
         stack = []
-        res = 0
-        
-        for token in tokens:
-            if not(len(token) > 1) and not(token.isdigit()):
-                if token == '+':
-                    res = stack.pop(-1) + stack.pop(-1)
-                elif token == '-':
-                    res = - stack.pop(-1) + stack.pop(-1)
-                elif token == '*':
-                    res = stack.pop(-1) * stack.pop(-1)
-                else:
-                    res = int(stack.pop(-2) / stack.pop(-1))
-                stack.append(res)
+        for tkn in tokens:
+            if tkn in ['+','-','*','/']:
+                result = self.applyOperation(tkn,stack.pop(),stack.pop())
+                stack.append(result)
             else:
-                stack.append(int(token))
+                stack.append(int(tkn))
 
-        return stack[-1]
+        return stack.pop()
