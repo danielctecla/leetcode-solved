@@ -31,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/danielctecla/leetcode-solved/tree/main/0739-daily-temperatures/) | Medium |
