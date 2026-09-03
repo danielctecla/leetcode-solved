@@ -18,14 +18,17 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -160,4 +163,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
