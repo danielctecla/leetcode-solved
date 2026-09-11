@@ -20,16 +20,19 @@
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
