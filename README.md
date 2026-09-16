@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
