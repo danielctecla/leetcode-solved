@@ -40,6 +40,7 @@
 | [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
@@ -112,6 +113,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/danielctecla/leetcode-solved/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
@@ -183,5 +185,14 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
