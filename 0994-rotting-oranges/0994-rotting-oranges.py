@@ -1,3 +1,4 @@
+from collections import deque
 class Solution:
     # def orangesRotting(self, grid: list[list[int]]) -> int:
         
@@ -17,41 +18,38 @@ class Solution:
 # finally I return the time of the rotten orange.
     
     def orangesRotting(self, grid: list[list[int]]) -> int:
-        n = len(grid)
-        m = len(grid[0])
-        queue = []
+        r, c = len(grid), len(grid[0])
+        root_oranges = deque()
         total_time = -1
         fresh_orange = 0
 
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j] == 2:
-                    queue.append((i,j))
-                elif grid[i][j] == 1:
+        for row in range(r):
+            for col in range(c):
+                if grid[row][col] == 2:
+                    root_oranges.append((row,col))
+                elif grid[row][col] == 1:
                     fresh_orange += 1
         
         if fresh_orange == 0:
             return 0
         
 
-        while queue:
-            current_size_stack = len(queue)
+        while root_oranges:
             total_time += 1
 
-            for _ in range(current_size_stack):
-                x,y = queue.pop(0)
+            for _ in range(len(root_oranges)):
+                row,col = root_oranges.popleft()
                 
                 directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
-                for row,column in directions:
-                    new_row = x + row
-                    new_column = y + column
+                for dr, dc in directions:
+                    nr, nc = dr + row, dc + col
 
-                    if 0 <= new_row < n and 0 <= new_column < m:
+                    if 0 <= nr < r and 0 <= nc < c:
                         
-                        if grid[new_row][new_column] == 1:
-                            queue.append((new_row, new_column))
-                            grid[new_row][new_column] = 2
+                        if grid[nr][nc] == 1:
+                            root_oranges.append((nr, nc))
+                            grid[nr][nc] = 2
                             fresh_orange -= 1
 
         return total_time if fresh_orange == 0 else -1
