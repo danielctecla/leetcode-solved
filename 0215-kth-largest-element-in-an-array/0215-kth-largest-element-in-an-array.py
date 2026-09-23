@@ -15,7 +15,7 @@ class Solution:
         # time complexity - O(nlog(k))
         # memory complexity - O(k)
         
-        # create heap max
+        # create heap min
         # for element in nums
         #   add to the heap
         # navigate to get the minum element
@@ -27,10 +27,8 @@ class Solution:
             if len(k_largest) < k:
                 heapq.heappush(k_largest,element)
             elif element > k_largest[0]:
-                if len(k_largest) == k:
-                    heapq.heapreplace(k_largest, element)
-                else:
-                    heapq.heappush(k_largest,element)
+                heapq.heapreplace(k_largest, element)
+                
 
         return k_largest[0]
 
