@@ -83,6 +83,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielctecla/leetcode-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -91,6 +92,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielctecla/leetcode-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
@@ -211,4 +213,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielctecla/leetcode-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
