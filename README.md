@@ -99,6 +99,7 @@
 | [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
+| [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sorting
@@ -173,6 +174,7 @@
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
