@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Knapsack Problem
