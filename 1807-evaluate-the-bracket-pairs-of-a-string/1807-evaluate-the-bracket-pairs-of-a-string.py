@@ -8,29 +8,22 @@
 
 class Solution:
   def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
-    dct_knowledge = {}
     s_result = ""
-    
-    for key,value in knowledge:
-      dct_knowledge[key] = value
+    dct_knowledge = dict(knowledge)
 
-    ptr = 0
-    size_s = len(s)
-    while ptr < size_s:
+    i = 0
+    while i < len(s):
       
-      if s[ptr] == "(":
-        ptr_right = ptr + 1
-        
-        while s[ptr_right] != ")":
-          ptr_right += 1
+      if s[i] == "(":
+        j = s.find(")", i + 1)
       
-        value = dct_knowledge.get(s[ptr+1:ptr_right] ,"?")
+        value = dct_knowledge.get(s[i+1:j] ,"?")
         s_result += value
-        ptr = ptr_right + 1
+        i = j + 1
 
       else:
-        s_result += s[ptr]
-        ptr += 1
+        s_result += s[i]
+        i += 1
 
     return s_result
 
