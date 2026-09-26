@@ -50,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
+| [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/danielctecla/leetcode-solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
+| [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +146,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/danielctecla/leetcode-solved/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/danielctecla/leetcode-solved/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +248,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 <!---LeetCode Topics End-->
