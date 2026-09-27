@@ -110,6 +110,7 @@
 | [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@
 | [0155-min-stack](https://github.com/danielctecla/leetcode-solved/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/danielctecla/leetcode-solved/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,4 +279,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
