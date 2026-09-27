@@ -143,6 +143,7 @@
 | [0875-koko-eating-bananas](https://github.com/danielctecla/leetcode-solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -269,4 +270,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 <!---LeetCode Topics End-->
