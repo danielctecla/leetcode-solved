@@ -118,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/danielctecla/leetcode-solved/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -131,6 +132,7 @@
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -292,4 +294,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
