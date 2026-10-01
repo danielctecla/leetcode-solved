@@ -108,6 +108,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielctecla/leetcode-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danielctecla/leetcode-solved/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
@@ -186,6 +187,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/danielctecla/leetcode-solved/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/danielctecla/leetcode-solved/tree/main/0739-daily-temperatures/) | Medium |
@@ -293,6 +295,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
