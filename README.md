@@ -4,6 +4,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/danielctecla/leetcode-solved/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/danielctecla/leetcode-solved/tree/main/0155-min-stack/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/danielctecla/leetcode-solved/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -97,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/danielctecla/leetcode-solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danielctecla/leetcode-solved/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
+| [0146-lru-cache](https://github.com/danielctecla/leetcode-solved/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -288,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0146-lru-cache](https://github.com/danielctecla/leetcode-solved/tree/main/0146-lru-cache/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/danielctecla/leetcode-solved/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
