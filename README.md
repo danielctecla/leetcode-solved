@@ -159,6 +159,7 @@
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/danielctecla/leetcode-solved/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/danielctecla/leetcode-solved/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
