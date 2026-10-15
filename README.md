@@ -130,6 +130,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | [0875-koko-eating-bananas](https://github.com/danielctecla/leetcode-solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
