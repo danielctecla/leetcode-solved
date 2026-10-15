@@ -65,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -138,6 +139,7 @@
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
