@@ -46,6 +46,7 @@
 | [0005-longest-palindromic-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/danielctecla/leetcode-solved/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
@@ -146,6 +147,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/danielctecla/leetcode-solved/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/danielctecla/leetcode-solved/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/danielctecla/leetcode-solved/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
