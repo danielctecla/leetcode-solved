@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -90,6 +91,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -256,6 +258,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -331,4 +334,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/danielctecla/leetcode-solved/tree/main/0146-lru-cache/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
