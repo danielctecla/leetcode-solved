@@ -28,6 +28,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -120,6 +121,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danielctecla/leetcode-solved/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/danielctecla/leetcode-solved/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
@@ -149,6 +151,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -240,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -287,6 +291,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danielctecla/leetcode-solved/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
 | ------- | ------- |
