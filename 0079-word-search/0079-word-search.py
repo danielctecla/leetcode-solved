@@ -2,41 +2,33 @@ class Solution:
     def exist(self, board: list[list[str]], word: str) -> bool:
         
         def searchWord(row: int, col: int, index: int) -> bool:
-            visited.add((row,col))
-
-            if index == len(word) - 1 and board[row][col] == word[index]:
+            if index == len(word) - 1:
                 return True
-            
-            # dr - direction row
+
+            temp = board[row][col]
+            board[row][col] = "#"
+
+            found = False
             for dr, dc in directions:
-                # nr - next row
                 nr, nc = row + dr, col + dc
+                if 0 <= nr < rows and 0 <= nc < cols and board[nr][nc] == word[index + 1]:
+                    if searchWord(nr, nc, index + 1):
+                        found = True
+                        break
 
-                if 0 <= nr < len(board) and 0 <= nc < len(board[0]):
-                    if board[nr][nc] != word[index + 1] or (nr,nc) in visited:
-                        continue
-                    
-                    find = searchWord(nr,nc, index+1)                
-
-                    if find:
-                        return True
-                    
-                    visited.remove((nr,nc))
-
-            return False
+            board[row][col] = temp
+            return found
 
         directions = [(-1,0),(0,-1),(1,0),(0,1)]
+        rows, cols = len(board), len(board[0])
 
-        for row in range(len(board)):
-            for col in range(len(board[0])):
+        for row in range(rows):
+            for col in range(cols):
                 
                 if board[row][col] != word[0]:
                     continue
                 
-                visited = set()
-                found = searchWord(row,col,0)
-
-                if found:
+                if searchWord(row,col,0):
                     return True
         
         return False
