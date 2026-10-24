@@ -133,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/danielctecla/leetcode-solved/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/danielctecla/leetcode-solved/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
@@ -147,6 +148,7 @@
 | [0001-two-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/danielctecla/leetcode-solved/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
@@ -224,6 +226,7 @@
 | [0005-longest-palindromic-substring](https://github.com/danielctecla/leetcode-solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/danielctecla/leetcode-solved/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/danielctecla/leetcode-solved/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danielctecla/leetcode-solved/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/danielctecla/leetcode-solved/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
