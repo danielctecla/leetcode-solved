@@ -84,6 +84,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@
 | [0853-car-fleet](https://github.com/danielctecla/leetcode-solved/tree/main/0853-car-fleet/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/1288-remove-covered-intervals/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/danielctecla/leetcode-solved/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -193,6 +197,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/danielctecla/leetcode-solved/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
