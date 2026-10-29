@@ -85,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/danielctecla/leetcode-solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@
 | [0189-rotate-array](https://github.com/danielctecla/leetcode-solved/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
