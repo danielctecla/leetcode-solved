@@ -244,6 +244,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/danielctecla/leetcode-solved/tree/main/0189-rotate-array/) | Medium |
+| [0319-bulb-switcher](https://github.com/danielctecla/leetcode-solved/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Manacher
@@ -359,4 +360,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/danielctecla/leetcode-solved/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
