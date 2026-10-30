@@ -1,36 +1,42 @@
+
 class Solution:
     def platesBetweenCandles(self, s: str, queries: list[list[int]]) -> list[int]:
         n = len(s)
+
+        # Prefix sum: count plates
         prefix = [0] * n
-        prefix[0] = 1 if prefix[0] == "*" else 0
-        
-        for i in range(1,n):
-            if s[i] == "*":
-                prefix[i] = 1
-            prefix[i] += prefix[i - 1]
-        
+        for i in range(n):
+            prefix[i] = (1 if s[i] == "*" else 0)
+            if i > 0:
+                prefix[i] += prefix[i - 1]
+
+        # Closest candle to the left
+        left_candle = [-1] * n
         last_candle = -1
-        left_candle = [0] * n
+
         for i in range(n):
             if s[i] == "|":
                 last_candle = i
             left_candle[i] = last_candle
-        
+
+        # Closest candle to the right
+        right_candle = [-1] * n
         next_candle = -1
-        right_candle = [0] * n
-        for i in range(n-1,-1,-1):
+
+        for i in range(n - 1, -1, -1):
             if s[i] == "|":
                 next_candle = i
             right_candle[i] = next_candle
 
+        # Answer queries
         ans = []
-        for left, right in queries:
-            
-            rt = left_candle[right]
-            lt = right_candle[left]
 
-            if rt != lt and lt <= right and rt >= left:
-                ans.append(prefix[rt] - prefix[lt])
+        for left, right in queries:
+            first = right_candle[left]
+            last = left_candle[right]
+
+            if first != -1 and last != -1 and first < last:
+                ans.append(prefix[last] - prefix[first])
             else:
                 ans.append(0)
 
