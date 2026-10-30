@@ -63,6 +63,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/danielctecla/leetcode-solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/danielctecla/leetcode-solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/danielctecla/leetcode-solved/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
