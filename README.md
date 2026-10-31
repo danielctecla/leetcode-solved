@@ -22,6 +22,7 @@
 | [0098-validate-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -33,6 +34,7 @@
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -42,6 +44,7 @@
 | [0098-validate-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -115,6 +118,7 @@
 | [0242-valid-anagram](https://github.com/danielctecla/leetcode-solved/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danielctecla/leetcode-solved/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/danielctecla/leetcode-solved/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -281,6 +285,7 @@
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
