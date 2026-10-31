@@ -8,41 +8,39 @@
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         parent_map = {}
-        
-        def get_parent(root): 
-            if root.left:
-                parent_map[root.left] = root
-                get_parent(root.left)
-            
-            if root.right:
-                parent_map[root.right] = root
-                get_parent(root.right)
-            
-        get_parent(root)
-        
-        ans = []
+
+        def build_parent_map(node):
+            if not node:
+                return
+
+            if node.left:
+                parent_map[node.left] = node
+                build_parent_map(node.left)
+
+            if node.right:
+                parent_map[node.right] = node
+                build_parent_map(node.right)
+
+        build_parent_map(root)
+
         queue = deque([target])
-        visited = set()
-        
-        while k and queue:
-            k -= 1
-            for i in range(len(queue)):
+        visited = {target}
+
+        while queue and k > 0:
+            for _ in range(len(queue)):
                 node = queue.popleft()
-                visited.add(node)
-                
-                if node.left and node.left not in visited:
-                    queue.append(node.left)
-                if node.right and node.right not in visited:
-                    queue.append(node.right)
-                
-                parent_node = parent_map.get(node,None)
-                
-                if parent_node and parent_node not in visited:
-                    queue.append(parent_node)
-        if k:
-            return []
-        
-        for node in queue:
-            ans.append(node.val)
-        
-        return ans
+
+                neighbors = [
+                    node.left,
+                    node.right,
+                    parent_map.get(node)
+                ]
+
+                for neighbor in neighbors:
+                    if neighbor and neighbor not in visited:
+                        visited.add(neighbor)
+                        queue.append(neighbor)
+
+            k -= 1
+
+        return [node.val for node in queue]
