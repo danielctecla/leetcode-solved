@@ -142,6 +142,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/danielctecla/leetcode-solved/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +342,7 @@
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/danielctecla/leetcode-solved/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
