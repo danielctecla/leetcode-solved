@@ -32,6 +32,7 @@
 | [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0210-course-schedule-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0210-course-schedule-ii/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -290,6 +292,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -374,6 +377,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/danielctecla/leetcode-solved/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
