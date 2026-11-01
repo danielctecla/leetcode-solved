@@ -71,6 +71,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/danielctecla/leetcode-solved/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/danielctecla/leetcode-solved/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/danielctecla/leetcode-solved/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/danielctecla/leetcode-solved/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielctecla/leetcode-solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielctecla/leetcode-solved/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -312,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danielctecla/leetcode-solved/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0078-subsets](https://github.com/danielctecla/leetcode-solved/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
