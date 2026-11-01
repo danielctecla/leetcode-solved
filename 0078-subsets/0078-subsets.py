@@ -1,10 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(start, path):
-            result.append(path)
-            for i in range(start, len(nums)):
-                backtrack(i + 1, path + [nums[i]])
-        result = []
-        backtrack(0,[])
+        ans = []
+        current = []
 
-        return result
+        def bactraking(index: int):
+            if index == len(nums):
+                ans.append(current.copy())
+                return
+            
+            current.append(nums[index])
+            bactraking(index + 1)
+
+            current.pop()
+            bactraking(index + 1)
+        
+        bactraking(0)
+
+        return ans
