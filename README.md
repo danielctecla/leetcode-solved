@@ -60,6 +60,7 @@
 | [0322-coin-change](https://github.com/danielctecla/leetcode-solved/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/danielctecla/leetcode-solved/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | [0238-product-of-array-except-self](https://github.com/danielctecla/leetcode-solved/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
 | [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/danielctecla/leetcode-solved/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/danielctecla/leetcode-solved/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/danielctecla/leetcode-solved/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
