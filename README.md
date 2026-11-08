@@ -37,6 +37,7 @@
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/danielctecla/leetcode-solved/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/danielctecla/leetcode-solved/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Binary Tree
@@ -100,6 +101,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/danielctecla/leetcode-solved/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@
 | [0881-boats-to-save-people](https://github.com/danielctecla/leetcode-solved/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/danielctecla/leetcode-solved/tree/main/1094-car-pooling/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/danielctecla/leetcode-solved/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/danielctecla/leetcode-solved/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/danielctecla/leetcode-solved/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
@@ -227,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/danielctecla/leetcode-solved/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/danielctecla/leetcode-solved/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +281,7 @@
 | [0074-search-a-2d-matrix](https://github.com/danielctecla/leetcode-solved/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/danielctecla/leetcode-solved/tree/main/0079-word-search/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/danielctecla/leetcode-solved/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +306,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/danielctecla/leetcode-solved/tree/main/0994-rotting-oranges/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/danielctecla/leetcode-solved/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/danielctecla/leetcode-solved/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/danielctecla/leetcode-solved/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
