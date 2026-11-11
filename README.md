@@ -98,6 +98,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/danielctecla/leetcode-solved/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/danielctecla/leetcode-solved/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +272,7 @@
 | [0319-bulb-switcher](https://github.com/danielctecla/leetcode-solved/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/danielctecla/leetcode-solved/tree/main/0365-water-and-jug-problem/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/danielctecla/leetcode-solved/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
