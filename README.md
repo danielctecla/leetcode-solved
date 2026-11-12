@@ -208,6 +208,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/danielctecla/leetcode-solved/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/danielctecla/leetcode-solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/danielctecla/leetcode-solved/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danielctecla/leetcode-solved/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
