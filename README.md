@@ -62,6 +62,7 @@
 | [0518-coin-change-ii](https://github.com/danielctecla/leetcode-solved/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/danielctecla/leetcode-solved/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/danielctecla/leetcode-solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/danielctecla/leetcode-solved/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/danielctecla/leetcode-solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/danielctecla/leetcode-solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/danielctecla/leetcode-solved/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sorting
@@ -264,6 +266,7 @@
 | [0443-string-compression](https://github.com/danielctecla/leetcode-solved/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/danielctecla/leetcode-solved/tree/main/0647-palindromic-substrings/) | Medium |
 | [0881-boats-to-save-people](https://github.com/danielctecla/leetcode-solved/tree/main/0881-boats-to-save-people/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/danielctecla/leetcode-solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Math
 | Problem Name | Difficulty |
