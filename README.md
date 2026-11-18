@@ -150,6 +150,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/danielctecla/leetcode-solved/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2055-plates-between-candles](https://github.com/danielctecla/leetcode-solved/tree/main/2055-plates-between-candles/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/danielctecla/leetcode-solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/danielctecla/leetcode-solved/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/danielctecla/leetcode-solved/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/danielctecla/leetcode-solved/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sorting
